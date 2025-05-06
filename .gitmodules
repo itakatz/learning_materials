@@ -1,3 +1,6 @@
 [submodule "huggingface/computer-vision-course"]
 	path = huggingface/computer-vision-course
 	url = git@github.com:huggingface/computer-vision-course.git
+[submodule "MasteringPyTorchV2"]
+	path = MasteringPyTorchV2
+	url = git@github.com:arj7192/MasteringPyTorchV2.git
